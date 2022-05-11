@@ -14,12 +14,12 @@ div {
 
 .header.para {
   font-size: 20px;
-  font-family: Georgia, sans-serif;
+  font-family: cursive, sans-serif;
 }
 
 .mainimg {
   height: auto;
-  width: 90px;
+  width: 120px;
 }
 .recipelink {
   font-size: 20px;
@@ -31,15 +31,17 @@ div {
   font-size: 15px;
   color: black;
   text-align: center;
+  font-family: cursive, sans-serif;
 }
 
 .subheader {
   background-color: rgb(21, 139, 218);
   color: black;
+  font-family: 'Courier New', sans-serif;
 }
 
 .orange {
-  background-color: rgb(252, 164, 0);
+  background-color: rgb(204, 105, 13);
 }
 
 .burger {
@@ -47,7 +49,7 @@ div {
 }
 
 .lemonade {
-  background-color: rgb(255, 245, 45);
+  background-color: rgb(244, 231, 130);
 }
 
 .burgimg {
@@ -61,4 +63,31 @@ div {
 
 ol li {
   color: black;
+}
+
+.lemonade.ing {
+  color: rgb(75, 215, 133);
+}
+
+.lemonimg {
+  height: auto;
+  width: 300px;
+}
+
+.chickenimg {
+  height: auto;
+  width: 300px;
+}
+
+.orange.ing {
+  color: rgb(221, 221, 221);
+}
+
+.ind {
+  color:rgb(215, 75, 75)
+}
+
+.last {
+  height: auto;
+  width: 270px;
 }
