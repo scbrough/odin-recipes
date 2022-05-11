@@ -49,3 +49,16 @@ div {
 .lemonade {
   background-color: rgb(255, 245, 45);
 }
+
+.burgimg {
+  height: auto;
+  width: 400px;
+}
+
+.burger.ing {
+  color: rgb(133, 82, 0);
+}
+
+ol li {
+  color: black;
+}
